@@ -1,0 +1,2 @@
+cin:E:\\in.txt
+cout:E:\\out.txt

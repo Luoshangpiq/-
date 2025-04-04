@@ -1,0 +1,4 @@
+﻿  main.cpp
+E:\编程\c++\代码储存\项目\表达式计算\High precision.hpp(646,1): warning C4172: 返回局部变量的地址或临时 : ret
+E:\编程\c++\代码储存\项目\表达式计算\High precision.hpp(671,1): warning C4172: 返回局部变量的地址或临时 : ret
+  表达式计算.vcxproj -> E:\编程\c++\代码储存\项目\表达式计算\表达式计算\x64\Debug\表达式计算.exe

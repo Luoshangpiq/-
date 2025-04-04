@@ -1,0 +1,411 @@
+﻿  main.cpp
+E:\编程\c++\代码储存\项目\表达式计算\wenjian.hpp(61,16): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jiancha.hpp(10,36): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jiancha.hpp(12,16): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jiancha.hpp(21,13): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jiancha.hpp(25,13): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jiancha.hpp(52,16): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jiancha.hpp(52,35): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jiancha.hpp(52,55): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jiancha.hpp(52,74): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jiancha.hpp(52,93): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jiancha.hpp(52,112): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jiancha.hpp(52,131): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jiancha.hpp(52,150): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jiancha.hpp(52,169): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jiancha.hpp(52,188): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jiancha.hpp(76,18): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jiancha.hpp(80,26): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jiancha.hpp(84,26): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jiancha.hpp(88,26): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jiancha.hpp(92,26): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jiancha.hpp(96,26): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jiancha.hpp(100,26): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jiancha.hpp(104,26): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jiancha.hpp(108,26): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jiancha.hpp(112,27): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\High precision.hpp(62,20): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\High precision.hpp(62,43): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\High precision.hpp(62,68): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\High precision.hpp(64,20): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\High precision.hpp(103,19): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\High precision.hpp(103,42): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\High precision.hpp(105,22): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\High precision.hpp(107,19): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\High precision.hpp(114,20): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\High precision.hpp(145,20): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\High precision.hpp(145,43): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\High precision.hpp(147,23): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\High precision.hpp(149,20): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\High precision.hpp(150,20): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\High precision.hpp(198,33): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\High precision.hpp(198,68): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\High precision.hpp(198,54): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\High precision.hpp(199,57): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\High precision.hpp(202,32): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\High precision.hpp(202,67): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\High precision.hpp(202,53): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\High precision.hpp(203,21): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\High precision.hpp(203,56): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\High precision.hpp(203,42): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\High precision.hpp(204,56): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\High precision.hpp(205,45): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\High precision.hpp(205,114): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\High precision.hpp(291,7): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\High precision.hpp(291,26): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\High precision.hpp(297,39): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\High precision.hpp(297,68): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(27,32): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(27,57): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(32,44): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(32,78): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(32,105): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(40,44): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(40,36): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(47,32): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(47,57): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(53,47): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(53,36): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(59,15): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(63,52): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(63,25): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(68,52): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(68,25): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(73,52): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(73,25): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(78,58): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(78,26): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(83,52): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(83,25): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(88,52): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(88,25): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(102,13): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(114,13): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(114,36): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(114,59): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(126,13): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(126,38): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(158,13): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(162,18): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(181,21): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(194,19): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(196,37): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(196,44): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(197,28): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(200,47): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(202,37): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(202,61): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(202,68): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(202,44): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(203,28): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(211,20): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(213,16): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(218,13): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(220,10): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(223,18): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(225,22): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(227,17): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(232,11): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(236,18): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(240,15): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(244,15): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(252,18): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(254,24): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(257,18): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(273,9): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(281,13): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(283,22): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(283,39): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(283,53): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(284,22): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(284,24): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(286,30): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(291,22): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(291,39): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(291,53): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(292,22): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(292,24): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(314,56): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(314,77): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(314,84): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(314,62): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(315,31): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(315,52): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(315,59): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\jisuan.hpp(315,37): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  (编译源文件“../main.cpp”)
+  
+E:\编程\c++\代码储存\项目\表达式计算\main.cpp(41,23): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+E:\编程\c++\代码储存\项目\表达式计算\main.cpp(49,17): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+E:\编程\c++\代码储存\项目\表达式计算\main.cpp(55,19): warning C4244: “参数”: 从“unsigned __int64”转换到“const unsigned int”，可能丢失数据
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 457 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  表达式计算.vcxproj -> E:\编程\c++\代码储存\项目\表达式计算\表达式计算\Release\表达式计算.exe
